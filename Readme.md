@@ -8,7 +8,7 @@ Estimate the $USD price of an ERC20 Token by getting its DAI price from Uniswap!
 
 ```
 // 0. require the module
-const Uniprice = require('./uniprice')
+const Uniprice = require('uniprice')
 
 // 1. create a new instance of the Uniprice object
 // options:
